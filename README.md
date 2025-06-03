@@ -1,12 +1,14 @@
-# Saland Crew All Tools Pack 1.0
+# 🧰 Saland-Crew-All-Tools-Install-1.0-PACK
 
-🔥 All-in-one Termux Tools Pack buatan Saland Crew.  
-Berisi tools hacking, pentesting, dev, dan security dari GitHub.
+🔥 Termux Tools Pack paling lengkap dari Saland Crew!  
+Berisi puluhan tools dari GitHub yang siap digunakan untuk hacking, cyber ops, dan testing.
 
-## 📦 Cara Pakai
+---
+
+## ⚙️ Cara Install
 
 ```bash
 pkg install git -y
-git clone https://github.com/USERNAME/SalandCrew-AllToolsPack-1.0.git
-cd SalandCrew-AllToolsPack-1.0
+git clone https://github.com/USERNAME/Saland-Crew-All-Tools-Install-1.0-PACK.git
+cd Saland-Crew-All-Tools-Install-1.0-PACK
 bash install.sh
